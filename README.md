@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fazilaa06
 - 😄 Pronouns: faxila
 - 💻 What I Do:
-    👀 Web Development: Crafting full-stack web apps using Python, making sure everything works seamlessly from front to back.
+    👀 Web Development: Crafting full-stack websites using Python, making sure everything works seamlessly from front to back.
     🐍 Problem Solver: Tackling challenges with creative solutions and clean code.
     🌱 Always Evolving: I’m constantly learning new technologies and improving my skills to stay ahead of the game.
   
